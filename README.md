@@ -1,6 +1,6 @@
 # StrayPaws is an app that was created by team "Thunderins" in the 2018 Technovation season global competition
 
-StrayPaws is an app that aims to solve the probelm of stray animals by introducing the concept of animal adoption and resucing 
+StrayPaws is an app that aims to solve the problem of stray animals by introducing the concept of animal adoption and rescuing 
 through a mobile app in Egypt
 
 The team reached the 2018 finals and was the first Egyptian team to reach the finals
